@@ -1,0 +1,867 @@
+Country	Region	Country Code	Currency Code	Currency Name	Area/City Code	When to Apply the Area/CityCode
+Albania	Central & Eastern Europe	ALB	ALL	Albania Lek	AL001	Tirana
+Albania	Central & Eastern Europe	ALB	ALL	Albania Lek	AL999	Rest of the Country
+Algeria	Africa	DZA	DZD	Algeria Dinar	DZ000	No region codes
+Andorra	Western Europe	AND	EUR	Euro	AN000	No region codes
+Angola	Africa	AGO	AOA	Angola Kwanza	AO000	No region codes
+Anguilla	Latin America	AIA	USD	United States Dollar	AI000	No region codes
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR001	Buenos Aires (Province + Autonomous City)
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR002	Córdoba
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR003	Santa Fé
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR004	Argentine Northwest
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR005	Argentine Northeast
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR006	Patagonia
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR007	Tierra del Fuego
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR008	Cuyana Region
+Argentina	Latin America	ARG	ARS	Argentina Peso	AR999	Rest of the Country
+Armenia	Central & Eastern Europe	ARM	AMD	Armenia Dram	AM000	No region codes
+Aruba	Latin America	ABW	USD	United States Dollar	AW000	No region codes
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU001	Greater Melbourne
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU002	Greater Perth
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU003	Greater Sydney
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU004	Greater Brisbane
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU005	Canberra / ACT
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU006	Greater Adelaide
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU007	Greater Darwin
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU008	Greater Hobart
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU101	Rest of Victoria
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU102	Rest of Western Australia
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU103	Rest of New South Wales
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU104	Rest of Queensland
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU106	Rest of South Australia
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU107	Rest of Northern Terrority
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU108	Rest of Tasmania
+Australia	Asia Pacific	AUS	AUD	Australia Dollar	AU109	Other Territories
+Austria	Western Europe	AUT	EUR	Euro	AT001	Vienna 
+Austria	Western Europe	AUT	EUR	Euro	AT002	Lower Austria
+Austria	Western Europe	AUT	EUR	Euro	AT003	Upper Austria, Salzburg
+Austria	Western Europe	AUT	EUR	Euro	AT004	Tyrol, Vorarlberg
+Austria	Western Europe	AUT	EUR	Euro	AT005	Burgenland, Styria, Carinthia
+Austria	Western Europe	AUT	EUR	Euro	AT999	Rest of the Country
+Azerbaijan	Central & Eastern Europe	AZE	AZN	Azerbaijan New Manat	AZ001	Baku and area
+Azerbaijan	Central & Eastern Europe	AZE	AZN	Azerbaijan New Manat	AZ999	Rest of the Country
+Bahamas	Latin America	BHS	USD	United States Dollar	BS000	No region codes
+Bahrain	Middle East	BHR	BHD	Bahrain Dinar	BH000	No region codes
+Bangladesh	Asia Pacific	BGD	BDT	Bangladesh Taka	BD001	Dhaka
+Bangladesh	Asia Pacific	BGD	BDT	Bangladesh Taka	BD999	Rest of the Country
+Barbados	Latin America	BRB	USD	United States Dollar	BB000	No region codes
+Belarus	Central & Eastern Europe	BLR	BYN	Belarus Ruble	BY001	Minsk and area
+Belarus	Central & Eastern Europe	BLR	BYN	Belarus Ruble	BY999	Rest of the Country
+Belgium	Western Europe	BEL	EUR	Euro	BE001	Brussels and area
+Belgium	Western Europe	BEL	EUR	Euro	BE002	Antwerp and area
+Belgium	Western Europe	BEL	EUR	Euro	BE003	Rest of Flanders (Aalst, Gent, Hasselt, Brugge, Kortrijk, etc.)
+Belgium	Western Europe	BEL	EUR	Euro	BE004	Wallonia (Mons, Liège, Namur, Arlon, Tournai, etc.)
+Belgium	Western Europe	BEL	EUR	Euro	BE005	Germanic area (Eupen, Malmedy)
+Belgium	Western Europe	BEL	EUR	Euro	BE999	Rest of the Country
+Benin	Africa	BEN	XOF	CFA Franc BCEAO	BJ000	No region codes
+Bermuda	North America	BMU	BMD	Bermuda Dollar	BM000	No region codes
+Bolivia	Latin America	BOL	BOB	Bolivia Boliviano	BO000	No region codes
+Bonaire, Sint Eustatius and Saba	Latin America	BES	USD	United States Dollar	BT000	No region codes
+Bosnia-Herzegovina	Central & Eastern Europe	BIH	BAM	Bosnia and Herzegovina Convertible Marka	BA001	Sarajevo and area
+Bosnia-Herzegovina	Central & Eastern Europe	BIH	BAM	Bosnia and Herzegovina Convertible Marka	BA999	Rest of the Country
+Botswana	Africa	BWA	BWP	Botswana Pula	BW000	No region codes
+Brazil	Latin America	BRA	BRL	Brazil Real	BR100	North (except Manaus and Belém)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR131	North - Amazonas (Manaus Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR132	North - Pará (Belém Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR200	Northeast (except Bahia and Pernambuco)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR221	Northeast - Bahia
+Brazil	Latin America	BRA	BRL	Brazil Real	BR222	Northeast - Pernambuco
+Brazil	Latin America	BRA	BRL	Brazil Real	BR310	Central-West - Distrito Federal - Brasília
+Brazil	Latin America	BRA	BRL	Brazil Real	BR320	Central-West - Goiás
+Brazil	Latin America	BRA	BRL	Brazil Real	BR330	Central-West - Mato Grosso
+Brazil	Latin America	BRA	BRL	Brazil Real	BR340	Central-West - Mato Grosso do Sul
+Brazil	Latin America	BRA	BRL	Brazil Real	BR410	Southeast - Espírito Santo
+Brazil	Latin America	BRA	BRL	Brazil Real	BR450	Southeast - Minas Gerais (Belo Horizonte Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR451	Southeast - Minas Gerais (except Belo Horizonte Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR500	Southeast - São Paulo (São Paulo City Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR620	Southeast - São Paulo (Campinas and Sorocaba Regions)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR630	Southeast - São Paulo (Vale do Paraíba Region)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR650	Southeast - São Paulo (Baixada Santista Region)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR690	Southeast - São Paulo (Other Countryside Cities)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR700	Southeast - Rio de Janeiro (Rio de Janeiro City Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR720	Southeast - Rio de Janeiro (Macaé Region)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR721	Southeast - Rio de Janeiro (Other Countryside Cities)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR810	South - Paraná (Curitiba Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR811	South - Paraná (except Curitiba Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR850	South - Santa Catarina
+Brazil	Latin America	BRA	BRL	Brazil Real	BR860	South - Rio Grande do Sul (Porto Alegre Metropolitan Area)
+Brazil	Latin America	BRA	BRL	Brazil Real	BR861	South - Rio Grande do Sul (except Porto Alegre Metropolitan Area)
+Brunei	Asia Pacific	BRN	BND	Brunei Darussalam Dollar	BN000	No region codes
+Bulgaria	Central & Eastern Europe	BGR	BGN	Bulgaria Lev	BG001	Sofia and area
+Bulgaria	Central & Eastern Europe	BGR	BGN	Bulgaria Lev	BG999	Rest of the Country
+Burkina Faso	Africa	BFA	XOF	CFA Franc BCEAO	BF000	No region codes
+Burundi	Africa	BDI	BIF	Burundi Franc	BI000	No region codes
+Cambodia	Asia Pacific	KHM	KHR	Cambodia Riel	KH000	No region codes
+Cameroon	Africa	CMR	XAF	CFA Franc BEAC	CM000	No region codes
+Canada	North America	CAN	CAD	Canada Dollar	----	Report Postal code
+Central African Republic	Africa	CAF	XAF	CFA Franc BEAC	CF000	No region codes
+Chad	Africa	TCD	XAF	CFA Franc BEAC	TC000	No region codes
+Chile	Latin America	CHL	CLP	Chile Peso	CL001	Metropolitan Region (Santiago)
+Chile	Latin America	CHL	CLP	Chile Peso	CL002	I Region of Tarapacá
+Chile	Latin America	CHL	CLP	Chile Peso	CL003	II Region of Antofagasta
+Chile	Latin America	CHL	CLP	Chile Peso	CL004	III Region of Atacama
+Chile	Latin America	CHL	CLP	Chile Peso	CL005	IV Region of Coquimbo
+Chile	Latin America	CHL	CLP	Chile Peso	CL006	V Region of Valparaiso
+Chile	Latin America	CHL	CLP	Chile Peso	CL007	VI Region of O´Higgins
+Chile	Latin America	CHL	CLP	Chile Peso	CL008	VII Region of Maule
+Chile	Latin America	CHL	CLP	Chile Peso	CL009	VIII Region of Bio-Bio
+Chile	Latin America	CHL	CLP	Chile Peso	CL010	IX Region of Araucanía
+Chile	Latin America	CHL	CLP	Chile Peso	CL011	X Region of Lagos
+Chile	Latin America	CHL	CLP	Chile Peso	CL012	XI Region of Aysén
+Chile	Latin America	CHL	CLP	Chile Peso	CL013	XII Region of Magallanes y Antártica
+Chile	Latin America	CHL	CLP	Chile Peso	CL014	XIV Region of Ríos
+Chile	Latin America	CHL	CLP	Chile Peso	CL015	XV Region of Arica y Parinacota
+Chile	Latin America	CHL	CLP	Chile Peso	CL016	XVI Region of Ñuble
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN001	Beijing
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN002	Shanghai
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN003	Shenzhen-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN004	Guangzhou-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN005	Tianjin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN006	Chongqing
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN101	Shijiazhuang-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN102	Harbin-Heilongjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN103	Zhengzhou-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN104	Hohhot-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN105	Changchun-Jilin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN106	Shenyang-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN107	Taiyuan-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN108	Tangshan-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN109	Handan-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN110	Cangzhou-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN111	Baoding-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN112	Langfang-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN113	Qinhuangdao-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN114	Xingtai-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN115	Zhangjiakou-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN116	Chengde-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN117	Hengshui-Hebei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN118	Daqing-Heilongjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN119	Qiqihar-Heilongjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN120	Mudanjiang-Heilongjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN121	Suihua-Heilongjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN122	Luoyang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN123	Nanyang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN124	Xuchang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN125	Zhoukou-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN126	Xinxiang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN127	Jiaozuo-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN128	Xinyang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN129	Pingdingshan-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN130	Anyang-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN131	Shangqiu-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN132	Zhumadian-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN133	Kaifeng-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN134	Sanmenxia-Henan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN135	Erdos-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN136	Baotou-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN137	Chifeng-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN138	Tongliao-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN139	HulunBuir-Inner Mongolia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN140	Jilin-Jilin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN141	Yanji-Jilin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN142	Songyuan-Jilin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN143	Siping-Jilin
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN144	Dalian-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN145	Anshan-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN146	Liaoyang-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN147	Huludao-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN148	Fushun-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN149	Jinzhou-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN150	Dandong-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN151	Yingkou-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN152	Panjin-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN153	Benxi-Liaoning
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN154	Datong-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN155	Changzhi-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN156	Yuncheng-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN157	Linfen-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN158	Lvliang-Shanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN201	Hefei-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN202	Wuhan-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN203	Changsha-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN204	Nanjing-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN205	Nanchang-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN206	Jinan-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN207	Hangzhou-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN208	Wuhu-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN209	Bengbu-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN210	Ma'anshan-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN211	Anqing-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN212	Suzhou-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN213	Chuzhou-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN214	Huangshan-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN215	Fuyang-Anhui
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN216	Yichang-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN217	Xiangfan-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN218	Jingzhou-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN219	Huangshi-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN220	Xiaogan-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN221	Shiyan-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN222	Huanggang-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN223	Jingmen-Hubei
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN224	Yueyang-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN225	Changde-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN226	Hengyang-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN227	Zhuzhou-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN228	Xiangtan-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN229	Yiyang-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN230	Chenzhou-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN231	Loudi-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN232	Shaoyang-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN233	Huaihua-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN234	Yongzhou-Hunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN235	Suzhou-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN236	Wuxi-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN237	Nantong-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN238	Xuzhou-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN239	Changzhou-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN240	Yancheng-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN241	Yangzhou-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN242	Taizhou-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN243	Zhenjiang-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN244	Huai'an-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN245	Lianyungang-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN246	Suqian-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN247	Changshu-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN248	Jiangyin-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN249	Yixing-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN250	Zhangjiagang-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN251	Taicang-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN252	Danyang-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN253	Ganzhou-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN254	Jiujiang-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN255	Shangrao-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN256	Yichun-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN257	Ji'an-Jiangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN258	Qingdao-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN259	Yantai-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN260	Weifang-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN261	Jining-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN262	Zibo-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN263	Linyi-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN264	Dongying-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN265	Tai'an-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN266	Weihai-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN267	Dezhou-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN268	Liaocheng-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN269	Binzhou-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN270	Heze-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN271	Zaozhuang-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN272	Rizhao-Shandong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN273	Ningbo-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN274	Wenzhou-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN275	Shaoxing-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN276	Taizhou-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN277	Jiaxing-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN278	Jinhua-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN279	Huzhou-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN280	Zhoushan-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN281	Shangyu-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN282	Kunshan-Jiangsu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN283	Yiwu-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN284	Cixi-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN285	Quzhou-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN286	Zhuji-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN287	Lishui-Zhejiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN301	Fuzhou-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN302	Nanning-Guangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN303	Haikou-Hainan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN304	Quanzhou-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN305	Xiamen-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN306	Zhangzhou-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN307	Longyan-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN308	Jinjiang-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN309	Nanping-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN310	Sanming-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN311	Putian-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN312	Ningde-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN313	Changle-Fujian
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN314	Foshan-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN315	Dongguan-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN316	Huizhou-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN317	Zhongshan-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN318	Maoming-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN319	Zhanjiang-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN320	Jiangmen-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN321	Zhuhai-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN322	Shantou-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN323	Meizhou-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN324	Shaoguan-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN325	Zhaoqing-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN326	Chaozhou-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN327	Jieyang-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN328	Yangjiang-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN329	Qingyuan-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN330	Zengcheng-Guangdong
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN331	Liuzhou-Guangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN332	Guilin-Guangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN333	Yulin-Guangxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN334	Sanya-Hainan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN401	Lanzhou-Gansu
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN402	Guiyang-Guizhou
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN403	Yinchuan-Ningxia
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN404	Xining-Qinghai
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN405	Xi'an-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN406	Chengdu-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN407	Urumchi-Xinjiang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN408	Lasa-Xizang
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN409	Kunming-Yunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN410	Zunyi-Guizhou
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN411	Yulin-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN412	Xianyang-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN413	Baoji-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN414	Yan'an-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN415	Weinan-Shaanxi
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN416	Luzhou-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN417	Mianyang-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN418	Panzhihua-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN419	Deyang-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN420	Neijiang-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN421	Leshan-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN422	Nanchong-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN423	Yibin-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN424	Dazhou-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN425	Ziyang-Sichuan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN426	Qujing-Yunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN427	Yuxi-Yunan
+China	Asia Pacific	CHN	CNY	China Yuan Renminbi	CN999	Rest of the Country
+Colombia	Latin America	COL	COP	Colombia Peso	CO001	Bogota
+Colombia	Latin America	COL	COP	Colombia Peso	CO002	Medellín
+Colombia	Latin America	COL	COP	Colombia Peso	CO003	Cali
+Colombia	Latin America	COL	COP	Colombia Peso	CO004	Barranquilla
+Colombia	Latin America	COL	COP	Colombia Peso	CO005	Cartagena
+Colombia	Latin America	COL	COP	Colombia Peso	CO006	Costa Atlántica
+Colombia	Latin America	COL	COP	Colombia Peso	CO007	Cundinamarca
+Colombia	Latin America	COL	COP	Colombia Peso	CO008	Eje Cafetero
+Colombia	Latin America	COL	COP	Colombia Peso	CO009	Antioquia
+Colombia	Latin America	COL	COP	Colombia Peso	CO010	Valle
+Colombia	Latin America	COL	COP	Colombia Peso	CO999	Rest of the Country
+Congo	Africa	COG	XAF	CFA Franc BEAC	CG000	No region codes
+Costa Rica	Latin America	CRI	CRC	Costa Rica Colon	CR001	San Jose
+Costa Rica	Latin America	CRI	CRC	Costa Rica Colon	CR999	Rest of the Country
+Côte d'Ivoire (Ivory Coast)	Africa	CIV	XOF	CFA Franc BCEAO	CI000	No region codes
+Croatia	Central & Eastern Europe	HRV	EUR	Euro	HR001	Zagreb & Area
+Croatia	Central & Eastern Europe	HRV	EUR	Euro	HR999	Rest of the Country
+Curaçao	Latin America	CUW	USD	United States Dollar	CW000	No region codes
+Cyprus	Middle East	CYP	EUR	Euro	CY000	No region codes
+Czechia	Central & Eastern Europe	CZE	CZK	Czechia Koruna	CZ001	Prague
+Czechia	Central & Eastern Europe	CZE	CZK	Czechia Koruna	CZ002	Bohemia (excluding Prague)
+Czechia	Central & Eastern Europe	CZE	CZK	Czechia Koruna	CZ003	Brno
+Czechia	Central & Eastern Europe	CZE	CZK	Czechia Koruna	CZ004	Moravia (excluding Brno)
+Czechia	Central & Eastern Europe	CZE	CZK	Czechia Koruna	CZ999	Rest of the Country
+Democratic Republic of the Congo (DR Congo)	Africa	COD	CDF	Congo Franc	CD000	No region codes
+Denmark	Western Europe	DNK	DKK	Denmark Krone	DK001	Copenhagen and area
+Denmark	Western Europe	DNK	DKK	Denmark Krone	DK002	Aarhus
+Denmark	Western Europe	DNK	DKK	Denmark Krone	DK999	Rest of the Country
+Dominican Republic	Latin America	DOM	DOP	Dominican Republic Peso	DO000	No region codes
+Ecuador	Latin America	ECU	USD	United States Dollar	EC000	No region codes
+Egypt	Middle East	EGY	EGP	Egypt Pound	EG001	Cairo
+Egypt	Middle East	EGY	EGP	Egypt Pound	EG002	Alexandria
+Egypt	Middle East	EGY	EGP	Egypt Pound	EG999	Rest of the Country
+El Salvador	Latin America	SLV	USD	United States Dollar	SV000	No region codes
+Equatorial Guinea	Africa	GNQ	XAF	CFA Franc BEAC	GQ000	No region codes
+Estonia	Central & Eastern Europe	EST	EUR	Euro	EE001	Tallinn and area
+Estonia	Central & Eastern Europe	EST	EUR	Euro	EE999	Rest of the Country
+Eswatini	Africa	SWZ	SZL	Eswatini Lilangeni	SZ000	No region codes
+Ethiopia	Africa	ETH	ETB	Ethiopia Birr	ET000	No region codes
+Finland	Western Europe	FIN	EUR	Euro	FI001	Helsinki and area
+Finland	Western Europe	FIN	EUR	Euro	FI999	Rest of the Country
+France	Western Europe	FRA	EUR	Euro	FR001	Ile de France: Paris and area
+France	Western Europe	FRA	EUR	Euro	FR002	Bretagne Normandie & Centre: Rennes, Nantes
+France	Western Europe	FRA	EUR	Euro	FR003	North-North East: Lille, Strasbourg, Besançon
+France	Western Europe	FRA	EUR	Euro	FR004	South East: Lyon, Marseille, Montpellier
+France	Western Europe	FRA	EUR	Euro	FR005	South West: Bordeaux, Aquitaine 
+France	Western Europe	FRA	EUR	Euro	FR006	Grand Toulouse (Midi Pyrénées)
+France	Western Europe	FRA	EUR	Euro	FR007	Sophia-Antipolis
+France	Western Europe	FRA	EUR	Euro	FR008	DOM-TOM
+France	Western Europe	FRA	EUR	Euro	FR999	Rest of the Country
+Gabon	Africa	GAB	XAF	CFA Franc BEAC	GA000	No region codes
+Georgia	Central & Eastern Europe	GEO	GEL	Georgia Lari	GE001	Tbilisi
+Georgia	Central & Eastern Europe	GEO	GEL	Georgia Lari	GE999	Rest of the Country
+Germany	Western Europe	DEU	EUR	Euro	DE001	Berlin
+Germany	Western Europe	DEU	EUR	Euro	DE002	Baden-Württemberg
+Germany	Western Europe	DEU	EUR	Euro	DE003	Bavaria (Bayern)
+Germany	Western Europe	DEU	EUR	Euro	DE004	Brandenburg
+Germany	Western Europe	DEU	EUR	Euro	DE005	Bremen
+Germany	Western Europe	DEU	EUR	Euro	DE006	Hamburg
+Germany	Western Europe	DEU	EUR	Euro	DE007	Hesse (Hessen)
+Germany	Western Europe	DEU	EUR	Euro	DE008	Mecklenburg-Vorpommern
+Germany	Western Europe	DEU	EUR	Euro	DE009	Lower Saxony (Niedersachsen)
+Germany	Western Europe	DEU	EUR	Euro	DE010	North Rhine-Westphalia (Nordrhein-Westfalen)
+Germany	Western Europe	DEU	EUR	Euro	DE011	Rhineland-Palatinate (Rheinland-Pfalz)
+Germany	Western Europe	DEU	EUR	Euro	DE012	Saarland
+Germany	Western Europe	DEU	EUR	Euro	DE013	Saxony (Sachsen)
+Germany	Western Europe	DEU	EUR	Euro	DE014	Saxony-Anhalt (Sachsen-Anhalt)
+Germany	Western Europe	DEU	EUR	Euro	DE015	Schleswig-Holstein
+Germany	Western Europe	DEU	EUR	Euro	DE016	Thuringia (Thüringen)
+Germany	Western Europe	DEU	EUR	Euro	DE999	Rest of the Country
+Ghana	Africa	GHA	GHS	Ghana Cedi	GH000	No region codes
+Gibraltar	Western Europe	GIB	GIP	Gibraltar Pound	GI000	No region codes
+Greece	Western Europe	GRC	EUR	Euro	GR001	Athens and area
+Greece	Western Europe	GRC	EUR	Euro	GR002	Thessaloniki
+Greece	Western Europe	GRC	EUR	Euro	GR999	Rest of the Country
+Guatemala	Latin America	GTM	GTQ	Guatemala Quetzal	GT000	No region codes
+Guinea	Africa	GIN	GNF	Guinea Franc	GN000	No region codes
+Guinea-Bissau	Africa	GNB	XOF	CFA Franc BCEAO	GU000	No region codes
+Holy See (Vatican City State)	Western Europe	VAT	EUR	Euro	VA000	No region codes
+Honduras	Latin America	HND	HNL	Honduras Lempira	HN000	No region codes
+Hong Kong SAR	Asia Pacific	HKG	HKD	Hong Kong Dollar	HK000	Hong Kong
+Hungary	Central & Eastern Europe	HUN	HUF	Hungary Forint	HU001	Budapest
+Hungary	Central & Eastern Europe	HUN	HUF	Hungary Forint	HU002	Western Hungary
+Hungary	Central & Eastern Europe	HUN	HUF	Hungary Forint	HU003	Eastern Hungary
+Hungary	Central & Eastern Europe	HUN	HUF	Hungary Forint	HU999	Rest of the Country
+Iceland	Western Europe	ISL	ISK	Iceland Krona	IS000	No region codes
+India	Asia Pacific	IND	INR	India Rupee	IN001	Ahmedabad
+India	Asia Pacific	IND	INR	India Rupee	IN002	Bengaluru
+India	Asia Pacific	IND	INR	India Rupee	IN003	Kolkata
+India	Asia Pacific	IND	INR	India Rupee	IN004	Chandigarh
+India	Asia Pacific	IND	INR	India Rupee	IN005	Chennai
+India	Asia Pacific	IND	INR	India Rupee	IN006	Hyderabad
+India	Asia Pacific	IND	INR	India Rupee	IN007	Jaipur
+India	Asia Pacific	IND	INR	India Rupee	IN008	Kochi
+India	Asia Pacific	IND	INR	India Rupee	IN009	Lucknow
+India	Asia Pacific	IND	INR	India Rupee	IN010	Mumbai
+India	Asia Pacific	IND	INR	India Rupee	IN011	Nagpur
+India	Asia Pacific	IND	INR	India Rupee	IN012	NCR
+India	Asia Pacific	IND	INR	India Rupee	IN013	Pune
+India	Asia Pacific	IND	INR	India Rupee	IN014	Trivandrum
+India	Asia Pacific	IND	INR	India Rupee	IN999	Rest of the Country
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID001	Nangroe Aceh Darussalam
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID002	Sumatera Utara
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID003	Sumatera Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID004	Riau
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID005	Kepulauan Riau
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID006	Kepulauan Bangka Belitung
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID007	Jambi
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID008	Sumatera Selatan
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID009	Bengkulu
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID010	Lampung
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID011	DKI Jakarta
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID012	Jawa Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID013	Banten
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID014	Jawa Tengah
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID015	DI Yogyakarta
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID016	Jawa Timur
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID017	Kalimantan Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID018	Kalimantan Tengah
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID019	Kalimantan Utara
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID020	Kalimantan Timur
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID021	Kalimantan Selatan
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID022	Bali
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID023	Nusa Tenggara Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID024	Nusa Tenggara Timur
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID025	Sulawesi Utara
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID026	Gorontalo
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID027	Sulawesi Tengah
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID028	Sulawesi Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID029	Sulawesi Selatan
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID030	Sulawesi Tenggara
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID031	Maluku Utara
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID032	Maluku
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID033	Papua Barat
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID034	Papua / Irian Jaya
+Indonesia	Asia Pacific	IDN	IDR	Indonesia Rupiah	ID999	Rest of the Country
+Iran	Middle East	IRN	IRR	Iran Rial	IR001	Tehran and Karaj
+Iran	Middle East	IRN	IRR	Iran Rial	IR002	Free Trade and Industrial Zones and Special Interest Zones (Assaluyeh, Mahshahr, etc.)
+Iran	Middle East	IRN	IRR	Iran Rial	IR003	Rest of the Country
+Iraq	Middle East	IRQ	IQD	Iraq Dinar	IQ001	Central Iraq (Baghdad)
+Iraq	Middle East	IRQ	IQD	Iraq Dinar	IQ002	Northern Iraq (Erbil)
+Iraq	Middle East	IRQ	IQD	Iraq Dinar	IQ003	Southern Iraq (Basra)
+Iraq	Middle East	IRQ	IQD	Iraq Dinar	IQ999	Rest of the Country
+Ireland	Western Europe	IRL	EUR	Euro	IE001	Dublin and area
+Ireland	Western Europe	IRL	EUR	Euro	IE002	South: Cork, Limerick, Waterford
+Ireland	Western Europe	IRL	EUR	Euro	IE999	Rest of the Country
+Israel	Middle East	ISR	ILS	Israel Shekel	IL001	Tel Aviv
+Israel	Middle East	ISR	ILS	Israel Shekel	IL999	Rest of the Country
+Italy	Western Europe	ITA	EUR	Euro	IT001	Milan
+Italy	Western Europe	ITA	EUR	Euro	IT002	North West (Piemonte, Liguria, Valle d'Aosta, Lombardia - excluding Milan)
+Italy	Western Europe	ITA	EUR	Euro	IT003	North East (Veneto, Trentino Alto-Adige, Friuli, Emilia-Romagna)
+Italy	Western Europe	ITA	EUR	Euro	IT004	Rome
+Italy	Western Europe	ITA	EUR	Euro	IT005	Centre (Toscany, Umbria, Abruzzo, Molise, Marche, Lazio - excluding Rome)
+Italy	Western Europe	ITA	EUR	Euro	IT006	South and Islands (Calabria, Campania, Basilicata, Puglia, Sicily, Sardegna)
+Italy	Western Europe	ITA	EUR	Euro	IT999	Rest of the Country
+Jamaica	Latin America	JAM	USD	United States Dollar	JA000	No region codes
+Japan	Asia Pacific	JPN	JPY	Japan Yen	JP001	Central Tokyo-Within 23 wards
+Japan	Asia Pacific	JPN	JPY	Japan Yen	JP002	Metropolitan area and Osaka: City area of Tokyo, Kanagawa-Ken, Saitama-Ken, Chiba-Ken and Osaka-Fu
+Japan	Asia Pacific	JPN	JPY	Japan Yen	JP003	Major cities-Sapporo, Sendai, Shizuoka, Nagoya, Kyoto, Kobe, Hiroshima, Kita-Kyusyu and Fukuoka
+Japan	Asia Pacific	JPN	JPY	Japan Yen	JP999	Rest of the Country
+Jordan	Middle East	JOR	JOD	Jordan Dinar	JO000	No region codes
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ001	Almaty
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ002	Nur-Sultan
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ003	Southern Area: Shymkent, Taraz, Taldykorgan
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ005	Caspian Sea Region: (Atyrau, West Kazakhstan, Mangistay and Aktobe regions)
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ006	Aral Sea Region: (Kyzylorda and some parts of Aktobe and South Kazakhstan regions
+Kazakhstan	Central & Eastern Europe	KAZ	KZT	Kazakhstan Tenge	KZ999	Rest of the Country
+Kenya	Africa	KEN	KES	Kenya Shilling	KE000	No region codes
+Kosovo	Central & Eastern Europe	XKX	EUR	Euro	XK000	No region codes
+Kuwait	Middle East	KWT	KWD	Kuwait Dinar	KW000	No region codes
+Lao People's Democratic Republic	Asia Pacific	LAO	LAK	Laos Kip	LA000	No region codes
+Latvia	Central & Eastern Europe	LVA	EUR	Euro	LV001	Riga and area
+Latvia	Central & Eastern Europe	LVA	EUR	Euro	LV999	Rest of the Country
+Lebanon	Middle East	LBN	LBP	Lebanon Pound	LB000	No region codes
+Lesotho	Africa	LSO	LSL	Lesotho Loti	LS000	No region codes
+Libya	Africa	LBY	LYD	Libya Dinar	LY000	No region codes
+Lithuania	Central & Eastern Europe	LTU	EUR	Euro	LT001	Vilnius and area
+Lithuania	Central & Eastern Europe	LTU	EUR	Euro	LT999	Rest of the Country
+Luxembourg	Western Europe	LUX	EUR	Euro	LU000	No region codes
+Macau SAR	Asia Pacific	MAC	MOP	Macau Pataca	MO000	No region codes
+Madagascar	Africa	MDG	MGA	Madagascar Ariary	MG000	No region codes
+Malawi	Africa	MWI	MWK	Malawi Kwacha	MW000	No region codes
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY001	Kuala Lumpur
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY002	Penang
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY003	Johor
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY004	Selangor
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY005	Sarawak
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY006	Sabah
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY007	Labuan
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY008	Putrajaya
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY009	Malacca
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY010	Perak
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY011	Kelantan
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY012	Pahang
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY013	Kedah
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY014	Negeri Sembilan
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY015	Terengganu
+Malaysia	Asia Pacific	MYS	MYR	Malaysia Ringgit	MY016	Perlis
+Mali	Africa	MLI	XOF	CFA Franc BCEAO	ML000	No region codes
+Malta	Western Europe	MLT	EUR	Euro	MT000	No region codes
+Mauritius	Africa	MUS	MUR	Mauritius Rupee	MU000	No region codes
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX010	Zona Metropolitana Valle de México
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX020	Toluca, Mex.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX030	Monterrey, N.L.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX040	Nuevo Leon (sin Monterrey), N.L.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX050	Guadalajara, Jal.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX060	Zapopan, Jal.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX070	Puerto Vallarta, Jal.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX080	León, Gto.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX090	Celaya, Gto.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX100	Irapuato, Gto.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX110	Silao, Gto.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX120	Guanajuato, Gto.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX130	Queretaro, Qro.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX140	San Luis Potosi, S.L.P.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX150	Aguascalientes, Ags.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX160	Puebla, Pue.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX170	Zacatecas, Zac.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX180	Morelia, Mich.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX190	Pachuca, Hgo.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX200	Cuernavaca, Mor.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX210	Acapulco, Gro.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX220	Veracruz, Ver.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX230	Coatzacoalcos, Ver.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX240	Xalapa, Ver.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX250	Campeche, Camp.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX260	Tuxla Gutierrez, Chis.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX270	Oaxaca, Oax.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX280	Cancún, Q. Roo.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX290	Villahermosa, Tab.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX300	Mérida, Yuc.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX310	Saltillo, Coah.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX320	Torreon, Coah.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX330	Ramos Arizpe, Coah.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX340	Piedras Negras, Coah.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX350	Matamoros, Tamps.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX360	Nuevo Laredo, Tamps.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX370	Reynosa, Tamps.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX380	Tampico, Tamps.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX390	Cd. Victoria, Tamps.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX400	Cd. Juarez, Chih.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX410	Chihuahua, Chih.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX420	Tepic, Nay.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX430	Hermosillo, Son.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX440	Nogales, Son.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX450	Cd. Obregón, Son.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX460	Culiacan, Sin.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX470	Mazatlán, Sin.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX480	Mexicali, B.C.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX490	Tijuana, B.C.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX500	Ensenada, B.C.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX510	La Paz, B.C.S.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX520	Los Cabos, B.C.S.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX530	Colima, Col.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX540	Durango, Dgo.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX550	Tlaxcala, Tlax.
+Mexico	Latin America	MEX	MXN	Mexico Peso	MX999	Rest of the Country
+Moldova	Central & Eastern Europe	MDA	MDL	Moldova Leu	MD001	Chi?in?u
+Moldova	Central & Eastern Europe	MDA	MDL	Moldova Leu	MD999	Rest of the Country
+Monaco	Western Europe	MCO	EUR	Euro	MC000	No region codes
+Mongolia	Asia Pacific	MNG	MNT	Mongolia Tughrik	MN000	No region codes
+Montenegro	Central & Eastern Europe	MNE	EUR	Euro	ME001	Podgorica
+Montenegro	Central & Eastern Europe	MNE	EUR	Euro	ME999	Rest of the Country
+Morocco	Africa	MAR	MAD	Morocco Dirham	MA000	No region codes
+Mozambique	Africa	MOZ	MZN	Mozambique Metical	MZ000	No region codes
+Myanmar	Asia Pacific	MMR	MMK	Myanman (Burma) Kyat	MM000	No region codes
+Namibia	Africa	NAM	NAD	Namibia Dollar	NA000	No region codes
+Nepal	Asia Pacific	NPL	NPR	Nepal Rupee	NP000	No region codes
+Netherlands	Western Europe	NLD	EUR	Euro	NL001	Randstad - Amsterdam, Rotterdam, The Hague, Utrecht, Almere, Amersfoort, Haarlem
+Netherlands	Western Europe	NLD	EUR	Euro	NL002	Europoort: Rotterdam Harbour Area
+Netherlands	Western Europe	NLD	EUR	Euro	NL003	South: e.g., Breda, Den Bosch, Maastricht, Eindhoven
+Netherlands	Western Europe	NLD	EUR	Euro	NL004	East: e.g., Almelo, Apeldoorn, Doetinchem, Ede, Enschede, Nijmegen
+Netherlands	Western Europe	NLD	EUR	Euro	NL005	North: e.g., Assen, Emmeloord, Groningen, Leeuwarden, Zwolle
+Netherlands	Western Europe	NLD	EUR	Euro	NL999	Rest of the Country: e.g., Alkmaar, Den Helder, Dordrecht, Hoorn, Lelystad, Middelburg
+New Zealand	Asia Pacific	NZL	NZD	New Zealand Dollar	NZ001	Auckland
+New Zealand	Asia Pacific	NZL	NZD	New Zealand Dollar	NZ002	Christchurch
+New Zealand	Asia Pacific	NZL	NZD	New Zealand Dollar	NZ003	Wellington
+New Zealand	Asia Pacific	NZL	NZD	New Zealand Dollar	NZ999	Rest of the Country
+Nicaragua	Latin America	NIC	NIO	Nicaragua Cordoba	NI000	No region codes
+Niger	Africa	NER	XOF	CFA Franc BCEAO	NR000	No region codes
+Nigeria	Africa	NGA	NGN	Nigeria Naira	NG000	No region codes
+North Macedonia	Central & Eastern Europe	MKD	MKD	North Macedonia Denar	MK001	Skopje
+North Macedonia	Central & Eastern Europe	MKD	MKD	North Macedonia Denar	MK999	Rest of the Country
+Norway	Western Europe	NOR	NOK	Norway Krone	NO001	Oslo and area
+Norway	Western Europe	NOR	NOK	Norway Krone	NO002	Stavanger
+Norway	Western Europe	NOR	NOK	Norway Krone	NO999	Rest of the Country
+Oman	Middle East	OMN	OMR	Oman Rial	OM000	No region codes
+Pakistan	Asia Pacific	PAK	PKR	Pakistan Rupee	PK001	Islamabad, Karachi
+Pakistan	Asia Pacific	PAK	PKR	Pakistan Rupee	PK999	Rest of the Country
+Panama	Latin America	PAN	USD	United States Dollar	PA000	No region codes
+Papua New Guinea	Asia Pacific	PNG	PGK	Papua New Guinea Kina	PG000	No region codes
+Paraguay	Latin America	PRY	PYG	Paraguay Guarani	PY000	No region codes
+Peru	Latin America	PER	PEN	Peru Nuevo Sol	PE001	Lima
+Peru	Latin America	PER	PEN	Peru Nuevo Sol	PE999	Rest of the Country
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH003	National Capital Region (NCR)
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH004	Cordillera Administrative Region (CAR)
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH005	Ilocos
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH006	Cagayan Valley
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH007	Central Luzon
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH008	Calabarzon
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH009	Mimaropa
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH010	Bicol
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH011	Western Visayas
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH012	Central Visayas
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH013	Eastern Visayas
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH014	Zamboanga Peninsula
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH015	Northern Mindanao
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH016	Davao
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH017	Soccsksargen
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH018	Caraga
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH019	Armm
+Philippines	Asia Pacific	PHL	PHP	Philippines Peso	PH999	Rest of the Country
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL001	Central Warsaw
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL002	Warsaw Region
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL003	Kraków
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL004	Poznan
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL005	Wroclaw
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL006	Lodz
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL007	Tricity Region (Gdansk, Sopot & Gdynia)
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL008	Upper Silesian Region (Katowice and area)
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL009	Szczecin
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL010	Bydgoszcz (including Toru?)
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL011	Rzeszów
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL012	Lublin
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL013	Bia?ystok
+Poland	Central & Eastern Europe	POL	PLN	Poland Zloty	PL999	Rest of the Country
+Portugal	Western Europe	PRT	EUR	Euro	PT001	Lisbon and area (Lisboa, Setúbal)
+Portugal	Western Europe	PRT	EUR	Euro	PT002	Porto (Porto, Maia)
+Portugal	Western Europe	PRT	EUR	Euro	PT003	North (Braga, Viana do Castelo)
+Portugal	Western Europe	PRT	EUR	Euro	PT004	Centre (Coimbra, Guarda, Castelo Branco, Leiria)
+Portugal	Western Europe	PRT	EUR	Euro	PT005	South (Alentejo, Algarve)
+Portugal	Western Europe	PRT	EUR	Euro	PT006	Islands (Madeira, Acores)
+Portugal	Western Europe	PRT	EUR	Euro	PT999	Rest of the Country
+Puerto Rico	Latin America	PRI	USD	United States Dollar	PR001	San Juan
+Puerto Rico	Latin America	PRI	USD	United States Dollar	PR999	Rest of the Country
+Qatar	Middle East	QAT	QAR	Qatar Riyal	QA000	No region codes
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO001	Bucharest Area
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO002	Cluj-Napoca Area
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO003	Timisoara-Arad Area
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO004	Iasi Area
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO005	Other main cities Area: Brasov, Constanta, Craiova, Pitesti, Ploiesti, Oradea, Sibiu
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO006	Eastern Area / Moldova (excluding cities listed above)
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO007	Western Area / Transylvania (excluding cities listed above)
+Romania	Central & Eastern Europe	ROU	RON	Romania New Leu	RO008	Southern Area / Muntenia (excluding cities listed above)
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU001	Moscow
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU002	Moscow region
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU003	Saint-Petersburg
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU004	Leningrad region
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU005	Arkhangelsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU006	Astrakhan
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU007	Barnaul
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU008	Belgorod
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU009	Bryansk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU010	Cheboksary
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU011	Cheliabinsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU012	Ekaterinburg
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU013	Irkutsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU014	Ivanovo
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU015	Izhevsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU016	Kaliningrad
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU017	Kaluga
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU018	Kazan
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU019	Kemerovo
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU020	Khabarovsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU021	Khanty-Mansiysk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU022	Kirov
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU023	Kostroma
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU024	Krasnodar
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU025	Krasnoyarsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU026	Kurgan
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU027	Kursk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU028	Lipetsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU029	Magadan
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU030	Murmansk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU031	Nizhniy Novgorod
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU032	Novgorod
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU033	Novosibirsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU034	Omsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU035	Orel
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU036	Orenburg
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU037	Penza
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU038	Perm
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU039	Piatigorsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU040	Pskov
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU041	Rostov-on-Don
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU042	Ryazan
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU043	Samara
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU044	Saratov
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU045	Smolensk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU046	Stavropol
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU047	Tambov
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU048	Tomsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU049	Tula
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU050	Tver
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU051	Tyumen
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU052	Ufa
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU053	Ulan-Ude
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU054	Ulyanovsk, Saransk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU055	Vladimir
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU056	Vladivostok
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU057	Volgograd
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU058	Vologda
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU059	Voronezh
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU060	Yaroslavl
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU061	Yoshkar-Ola
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU062	Yuzhno-Sakhalinsk
+Russia	Central & Eastern Europe	RUS	RUB	Russia Ruble	RU999	Rest of the Country
+Rwanda	Africa	RWA	RWF	Rwanda Franc	RW000	No region codes
+San Marino	Western Europe	SMR	EUR	Euro	SM000	No region codes
+Saudi Arabia	Middle East	SAU	SAR	Saudi Arabia Riyal	SA001	Riyadh
+Saudi Arabia	Middle East	SAU	SAR	Saudi Arabia Riyal	SA002	Jeddah / Western Province
+Saudi Arabia	Middle East	SAU	SAR	Saudi Arabia Riyal	SA003	Dammam / Eastern Province
+Saudi Arabia	Middle East	SAU	SAR	Saudi Arabia Riyal	SA999	Rest of the Country
+Senegal	Africa	SEN	XOF	CFA Franc BCEAO	SN000	No region codes
+Serbia	Central & Eastern Europe	SRB	RSD	Serbia Dinar	RS001	Belgrade and area
+Serbia	Central & Eastern Europe	SRB	RSD	Serbia Dinar	RS999	Rest of the Country
+Singapore	Asia Pacific	SGP	SGD	Singapore Dollar	SG000	No region codes
+Sint Maarten (Dutch)	Latin America	SXM	USD	United States Dollar	SX000	No region codes
+Slovakia	Central & Eastern Europe	SVK	EUR	Euro	SK001	Bratislava
+Slovakia	Central & Eastern Europe	SVK	EUR	Euro	SK002	Western Slovakia
+Slovakia	Central & Eastern Europe	SVK	EUR	Euro	SK003	Middle Slovakia
+Slovakia	Central & Eastern Europe	SVK	EUR	Euro	SK004	Eastern Slovakia
+Slovakia	Central & Eastern Europe	SVK	EUR	Euro	SK999	Rest of the Country
+Slovenia	Central & Eastern Europe	SVN	EUR	Euro	SI001	Ljubljana
+Slovenia	Central & Eastern Europe	SVN	EUR	Euro	SI999	Rest of the Country
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA001	Johannesburg (including Midrand)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA002	Pretoria/Tshwane (including Brits) 
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA003	East Rand (Germiston, Benoni, Brakpan, Boksburg, Kempton Park, Isando, Modderfontein, Springs, Nigel, Daveyton)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA004	West Rand (Roodepoort, Krugersdorp, Randfontein, Carletonville, Westonaria, Tarlton, Kagiso)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA005	Vaal Triangle (Vereeniging, Vanderbijlpark, Meyerton, Sebokeng, Sharpville, Klipriver, Evaton, Sasolburg)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA006	Limpopo & Mpumalanga (Polokwane (formerly Pietersburg) and environs: Nelspruit and Witbank)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA007	Kwazulu - Natal (Durban, Pietermaritzburg, Newcastle, Dundee, Rural Natal areas)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA008	Western Cape (Cape Town and environs, Boland, Atlantis, Mossel Bay)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA009	Eastern Cape (Port Elizabeth, East London, Ciskei and Transkei)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA010	Northwest, Northern Cape and Free State (including Bloemfontein, Welkom/ Odendaalsrus and environs), Kimberley and Kuruman, Mafikeng and Mmabatho)
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA011	Richards Bay
+South Africa	Africa	ZAF	ZAR	South Africa Rand	ZA999	Rest of the Country
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP001	Seoul
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP002	Busan
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP003	Gyeongsangdo
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP004	Chungcheongdo
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP005	Jeollado
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP006	Gyeonggido
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP007	Gangwando
+South Korea	Asia Pacific	KOR	KRW	South Korea Won	KP999	Rest of the Country
+Spain	Western Europe	ESP	EUR	Euro	ES001	Madrid and Community of Madrid (Comunidad de Madrid)
+Spain	Western Europe	ESP	EUR	Euro	ES002	Catalonia: Barcelona, Tarragona, Lérida and Gerona
+Spain	Western Europe	ESP	EUR	Euro	ES003	The Basque Country (País Vasco): Álava, Vizcaya and Guipuzcoa
+Spain	Western Europe	ESP	EUR	Euro	ES004	Navarre (Navarra)
+Spain	Western Europe	ESP	EUR	Euro	ES005	Andalucia: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, Sevilla
+Spain	Western Europe	ESP	EUR	Euro	ES006	Valencia (Comunidad Valenciana) and Balearic Islands (Islas Baleares)
+Spain	Western Europe	ESP	EUR	Euro	ES999	Rest of the Country including Canary Islands (Islas Canarias)
+Sri Lanka	Asia Pacific	LKA	LKR	Sri Lanka Rupee	LK001	Colombo
+Sri Lanka	Asia Pacific	LKA	LKR	Sri Lanka Rupee	LK999	Rest of the Country
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE001	Stockholm and area
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE002	Göteborg and area
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE003	Malmö and area
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE004	Northern Sweden/Norrland (Umeå, Gävle, Sundsvall etc.)
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE005	Central Sweden/Svealand (Örebro, Västerås, Karlstad etc. excluding Stockholm and area).
+Sweden	Western Europe	SWE	SEK	Sweden Krona	SE006	Southern Sweden/Götaland (Linköping, Norrköping Jönköping etc. excluding Göteborg and area. Excluding Malmö and area).
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH001	Zurich and area
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH002	Lemanic Coast (Geneva, Lausanne, Montreux)
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH003	Basel
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH004	Bern
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH005	Canton Ticino
+Switzerland	Western Europe	CHE	CHF	Switzerland Franc	CH999	Rest of the Country
+Syrian Arab Republic	Middle East	SYR	SYP	Syria Pound	SY000	No region codes
+Taiwan	Asia Pacific	TWN	TWD	Taiwan New Dollar	TW001	North Taiwan (Taipei, Taoyuan, Hsin Chu, I-Lan) 
+Taiwan	Asia Pacific	TWN	TWD	Taiwan New Dollar	TW002	Middle Taiwan (Miaoli, Taichung, Chunghua, Nantou, Yunlin, Chiayi) 
+Taiwan	Asia Pacific	TWN	TWD	Taiwan New Dollar	TW003	South Taiwan (Tainan, Kaohsiung, Pingtung)
+Taiwan	Asia Pacific	TWN	TWD	Taiwan New Dollar	TW004	East Taiwan (Hualien, Taitung)
+Taiwan	Asia Pacific	TWN	TWD	Taiwan New Dollar	TW999	Rest of the Country
+Tanzania	Africa	TZA	TZS	Tanzania Shilling	TZ000	No region codes
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH001	Central - Bangkok, Ayutthaya
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH002	Northern - Chiang Mai, Chiang Rai
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH003	North Eastern - Isan
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH004	Eastern - Pattaya
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH005	Southern - Phuket, Samui 
+Thailand	Asia Pacific	THA	THB	Thailand Baht	TH999	Rest of the Country
+Togo	Africa	TGO	XOF	CFA Franc BCEAO	TG000	No region codes
+Trinidad and Tobago	Latin America	TTO	USD	United States Dollar	TT000	No region codes
+Tunisia	Africa	TUN	TND	Tunisia Dinar	TN000	No region codes
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR001	Istanbul
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR002	Adana
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR003	Ankara
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR004	Antalya
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR005	Bursa
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR006	Izmir
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR007	Izmit
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR008	Mersin
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR009	Samsun
+Türkiye	Middle East	TUR	TRY	Turkish Lira	TR999	Rest of the Country
+Turkmenistan	Central & Eastern Europe	TKM	TMT	Turkmenistan Manat	TM001	Ashgabat
+Turkmenistan	Central & Eastern Europe	TKM	TMT	Turkmenistan Manat	TM999	Rest of the Country
+Uganda	Africa	UGA	UGX	Uganda Shilling	UG000	No region codes
+Ukraine	Central & Eastern Europe	UKR	UAH	Ukraine Hryvnia	UA001	Centre (Kiev)
+Ukraine	Central & Eastern Europe	UKR	UAH	Ukraine Hryvnia	UA002	East (main cities - Kharkov, Dnioropetrivsk, Donetsk, Luhansk, Zaporozhye)
+Ukraine	Central & Eastern Europe	UKR	UAH	Ukraine Hryvnia	UA003	South (Odessa)
+Ukraine	Central & Eastern Europe	UKR	UAH	Ukraine Hryvnia	UA004	West (Lvov, Lutsk)
+Ukraine	Central & Eastern Europe	UKR	UAH	Ukraine Hryvnia	UA999	Rest of the Country
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE001	Dubai
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE002	Abu Dhabi
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE003	Ras Al-Khaimah
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE004	Sharjah
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE005	Al-Ain
+United Arab Emirates	Middle East	ARE	AED	United Arab Emirates Dirham	AE999	Rest of the Country
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB001	Central London: Inner London (West End / City / Docklands)
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB002	Outer London: All locations other than Central London to the M25
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB003	South East: Essex, Kent, Surrey, Sussex, Hampshire, Berkshire, Oxfordshire, Buckinghamshire, Bedfordshire and Hertfordshire (excluding Central and Outer London)
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB004	South West: Cornwall, Devon, Dorset, Gloucestershire, Somerset, Wiltshire
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB005	East Anglia: Cambridgeshire, Norfolk, Suffolk
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB006	West Midlands: Herefordshire, Shropshire, Worcestershire, Staffordshire, Warwickshire
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB007	East Midlands: Derbyshire, Leicestershire, Lincolnshire, Nottinghamshire, Northampton
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB008	Wales: All Welsh Counties
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB009	North West: Cheshire, Cumbria, Greater Manchester, Lancashire and Merseyside 
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB010	Yorkshire and Humberside: South Yorkshire, West Yorkshire, North Yorkshire, Humberside
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB011	North East: Cleveland, Teeside, Durham, Northumberland, Tyne & Wear
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB012	Scotland: All locations in Scotland
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB013	Northern Ireland: All locations in Northern Ireland
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB015	UK Islands: Channel Isles, Isle of Man
+United Kingdom	Western Europe	GBR	GBP	United Kingdom Pound	GB999	Rest of the Country
+United States	North America	USA	USD	United States Dollar	----	Report ZIP code
+Uruguay	Latin America	URY	UYU	Uruguay Peso	UY000	No region codes
+Uzbekistan	Central & Eastern Europe	UZB	UZS	Uzbekistan Som	UZ000	No region codes
+Venezuela	Latin America	VEN	VED	Venezuela Bolivar Digital	VE001	Caracas
+Venezuela	Latin America	VEN	VED	Venezuela Bolivar Digital	VE999	Rest of the Country
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN001	Ba Ria - Vung Tau
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN002	Binh Duong
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN003	Da Nang
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN004	Dong Nai
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN005	Hai Phong
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN006	Hanoi
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN007	HCMC
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN008	Others of North
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN009	Others Middle
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN010	Others South
+Vietnam	Asia Pacific	VNM	VND	Vietnam Dong	VN999	Rest of the Country
+Yemen	Middle East	YEM	YER	Yemen Rial	YE000	No region codes
+Zambia	Africa	ZMB	ZMW	Zambia Kwacha	ZM000	No region codes
+Zimbabwe	Africa	ZWE	ZWD	Zimbabwe Dollar	ZW000	No region codes
