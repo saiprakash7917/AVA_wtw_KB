@@ -1,0 +1,181 @@
+Instructions			
+Primary Industry	Primary Industry Code	Industry Group	Industry
+Agricultural Products	001	Food Products	Agriculture, Food and Beverages
+Packaged Foods and Meats	003	Food Products	Agriculture, Food and Beverages
+Agriculture and Support Services	004	Agriculture and Support Services	Agriculture, Food and Beverages
+Agriculture and Support Services	004	Food Products	Agriculture, Food and Beverages
+Forest Products	005	Paper and Forest Products	Manufacturing
+Steel	006	Metals and Mining	Natural Resources
+Copper	007	Metals and Mining	Natural Resources
+Diversified Metals and Mining	008	Metals and Mining	Natural Resources
+Gold	009	Metals and Mining	Natural Resources
+Silver	010	Metals and Mining	Natural Resources
+Coal and Consumable Fuels	011	Oil, Gas and Consumable Fuels	Natural Resources
+Oil and Gas Refining and Marketing	012	Oil, Gas and Consumable Fuels	Natural Resources
+Oil and Gas Exploration and Production	013	Oil, Gas and Consumable Fuels	Natural Resources
+Oil and Gas Drilling	014	Energy Equipment and Services	Natural Resources
+Oil and Gas Equipment and Services	015	Energy Equipment and Services	Natural Resources
+Construction Materials	016	Construction Materials	Construction
+Fertilizers and Agricultural Chemicals	017	Chemicals	Natural Resources
+Precious Metals and Minerals	018	Metals and Mining	Natural Resources
+Homebuilding	019	Homebuilding	Construction
+Construction and Engineering	020	Construction and Engineering	Construction
+Brewers	021	Beverages	Agriculture, Food and Beverages
+Distillers and Vintners	022	Beverages	Agriculture, Food and Beverages
+Soft Drinks and Non-alcoholic Beverages	023	Beverages	Agriculture, Food and Beverages
+Specialty Chemicals	024	Chemicals	Natural Resources
+Tobacco	025	Tobacco	Agriculture, Food and Beverages
+Textiles	026	Textiles, Apparel and Luxury Goods	Manufacturing
+Apparel, Accessories and Luxury Goods	027	Textiles, Apparel and Luxury Goods	Manufacturing
+Home Furnishings	028	Household Durables	Manufacturing
+Automotive Parts and Equipment	029	Automobile Components	Manufacturing
+Office Supplies	030	Manufacturing Services and Supplies	Manufacturing
+Paper Products	031	Paper and Forest Products	Manufacturing
+Paper and Plastic Packaging Products and Materials	032	Containers and Packaging	Manufacturing
+Household Products	033	Household Products	Manufacturing
+Publishing	034	Media	Technology/Media/Telecommunications
+Commercial Printing	035	Technology/Media/Telecommunications Services and Supplies	Technology/Media/Telecommunications
+Industrial Gases	036	Chemicals	Natural Resources
+Commodity Chemicals	037	Chemicals	Natural Resources
+Nutritional Supplements	038	Consumer Health	Pharmaceutical and Life Sciences
+Biotechnology	039	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Consumer Health and Personal Care	040	Consumer Health	Pharmaceutical and Life Sciences
+Building Products	041	Building Products	Manufacturing
+Footwear	043	Textiles, Apparel and Luxury Goods	Manufacturing
+Metal, Glass and Plastic Containers	044	Containers and Packaging	Manufacturing
+Housewares and Specialties	045	Household Durables	Manufacturing
+Electrical Components and Equipment	046	Electrical Equipment	Manufacturing
+Aluminum	047	Metals and Mining	Natural Resources
+Industrial Machinery and Supplies and Components	048	Machinery	Manufacturing
+Aerospace and Defense	049	Aerospace and Defense	Manufacturing
+Heavy Electrical Equipment	050	Electrical Equipment	Manufacturing
+Agricultural and Farm Machinery	051	Machinery	Manufacturing
+Household Appliances	052	Household Durables	Manufacturing
+Construction Machinery and Heavy Transportation Equipment	053	Machinery	Manufacturing
+Technology Hardware, Storage and Peripherals	054	Technology Hardware, Storage and Peripherals	Technology/Media/Telecommunications
+Electronic Equipment and Instruments	055	Electronic Equipment and Instruments	Manufacturing
+Consumer Electronics	056	Consumer Electronics	Technology/Media/Telecommunications
+Movies	057	Entertainment	Technology/Media/Telecommunications
+Communications Equipment	058	Communications Equipment	Technology/Media/Telecommunications
+Electronic Components	059	Electronic Components	Technology/Media/Telecommunications
+Electronic Manufacturing Services	060	Electronic Manufacturing Services	Technology/Media/Telecommunications
+Semiconductors	061	Semiconductors and Semiconductor Equipment	Technology/Media/Telecommunications
+Automobile Manufacturers	062	Automobiles	Automotive
+Motorcycle and Bicycle Manufacturers	063	Automobiles	Automotive
+Health Care Equipment	064	Medical Devices	Healthcare
+Health Care Supplies	065	Medical Devices	Healthcare
+Leisure Products	066	Leisure Products	Manufacturing
+Advertising	067	Media	Technology/Media/Telecommunications
+Specialized Consumer Services	068	Diversified Consumer Services	Other
+Rail Transportation	069	Ground Transportation	Transportation
+Passenger Ground Transportation	070	Ground Transportation	Transportation
+Highways and Railtracks	071	Transportation Infrastructure	Transportation
+Cargo Ground Transportation	072	Ground Transportation	Transportation
+Air Freight and Logistics	073	Air Freight and Logistics	Transportation
+Public Sector Administration and Regulation	074	Public Sector and Education Services and Supplies	Public Sector and Education
+Marine Transportation	075	Marine Transportation	Transportation
+Marine Ports and Services	076	Transportation Infrastructure	Transportation
+Passenger Airlines	077	Passenger Airlines	Transportation
+Airport Services	078	Transportation Infrastructure	Transportation
+Oil and Gas Storage and Transportation	079	Oil, Gas and Consumable Fuels	Natural Resources
+Hotels, Resorts and Cruise Lines	080	Hotels, Restaurants and Leisure	Leisure
+Wireless Telecommunication Services	081	Wireless Telecommunication Services	Technology/Media/Telecommunications
+Integrated Telecommunication Services	082	Diversified Telecommunication Services	Technology/Media/Telecommunications
+Broadcasting	083	Media	Technology/Media/Telecommunications
+Cable and Satellite	084	Media	Technology/Media/Telecommunications
+Alternative Carriers	085	Diversified Telecommunication Services	Technology/Media/Telecommunications
+Electric Utilities	086	Electric Utilities	Natural Resources
+Gas Utilities	087	Gas Utilities	Natural Resources
+Multi-Utilities	088	Multi-Utilities	Natural Resources
+Water Utilities	089	Water Utilities	Natural Resources
+Distributors	090	Distributors	Retail and Distribution
+Trading Companies and Distributors	091	Trading Companies and Distributors	Retail and Distribution
+Technology Distributors	092	Technology Distributors	Retail and Distribution
+Health Care Distributors	093	Health Care Distributors	Retail and Distribution
+Food Distributors	094	Consumer Staples Distribution and Retail	Retail and Distribution
+Integrated Oil and Gas	095	Oil, Gas and Consumable Fuels	Natural Resources
+Home Improvement Retail	096	Specialty Retail	Retail and Distribution
+Other Specialty Retail	097	Specialty Retail	Retail and Distribution
+Broadline Retail	098	Broadline Retail	Retail and Distribution
+Food Retail	099	Consumer Staples Distribution and Retail	Retail and Distribution
+Automotive Retail	100	Specialty Retail	Retail and Distribution
+Apparel Retail	101	Specialty Retail	Retail and Distribution
+Homefurnishing Retail	102	Specialty Retail	Retail and Distribution
+Computer and Electronics Retail	103	Specialty Retail	Retail and Distribution
+Restaurants	104	Hotels, Restaurants and Leisure	Leisure
+Drug Retail	105	Consumer Staples Distribution and Retail	Retail and Distribution
+Specialized Finance	106	Financial Services	Financial Institutions
+Diversified Banks	107	Banks	Financial Institutions
+Regional Banks	108	Banks	Financial Institutions
+Multi-Sector Holdings	109	Financial Services	Financial Institutions
+Consumer Finance	110	Consumer Finance	Financial Institutions
+Commercial and Residential Mortgage Finance	111	Financial Services	Financial Institutions
+Investment Banking and Brokerage	112	Capital Markets	Financial Institutions
+Financial Exchanges and Data	113	Capital Markets	Financial Institutions
+Asset Management and Custody Banks	114	Capital Markets	Financial Institutions
+Life and Health Insurance	115	Insurance	Financial Institutions
+Property and Casualty Insurance	116	Insurance	Financial Institutions
+Insurance Brokers	117	Insurance	Financial Institutions
+Real Estate Operating Companies	118	Real Estate Management and Development	Real Estate
+Real Estate Services	119	Real Estate Management and Development	Real Estate
+Real Estate Development	120	Real Estate Management and Development	Real Estate
+Diversified REITs	121	Diversified REITs	Real Estate
+Research and Consulting Services	122	Professional Services	Business Services
+Human Resource and Employment Services	123	Professional Services	Business Services
+IT Consulting and Other Services	124	IT Services	Technology/Media/Telecommunications
+Application Software	125	Software	Technology/Media/Telecommunications
+Data Processing and Outsourced Services	126	Professional Services	Business Services
+Internet Services and Infrastructure	127	IT Services	Technology/Media/Telecommunications
+Security and Alarm Services	128	Commercial Services and Supplies	Business Services
+Leisure Facilities	129	Hotels, Restaurants and Leisure	Leisure
+Health Care Services	130	Health Care Providers and Services	Healthcare
+Education Services	131	Education Services	Public Sector and Education
+Other	132	Other	Other
+Diagnostic, Analytical and Biotechnology	133	Medical Equipment and Supplies	Pharmaceutical and Life Sciences
+Medical Devices and Technology	134	Medical Equipment and Supplies	Pharmaceutical and Life Sciences
+Animal Health	135	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Other Pharmaceuticals	140	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Gaming	141	Entertainment	Technology/Media/Telecommunications
+Online Gambling	142	Entertainment	Technology/Media/Telecommunications
+TV/Internet Access Providers	143	IT Services	Technology/Media/Telecommunications
+Online/Digital	145	Media	Technology/Media/Telecommunications
+Environmental and Facilities Services	146	Other Services and Supplies	Other
+Environmental Management	147	Public Sector and Education Services and Supplies	Public Sector and Education
+Contract Research	148	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Contract Development/Manufacturing	149	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Health Care Facilities	150	Health Care Providers and Services	Healthcare
+Metal Manufacturing	151	Metal Manufacturing	Manufacturing
+Forestry	152	Forestry	Agriculture, Food and Beverages
+Office Services	153	Commercial Services and Supplies	Business Services
+Pharma/Biopharma	155	Pharmaceuticals and Biotechnology	Pharmaceutical and Life Sciences
+Entertainment	156	Leisure Entertainment	Leisure
+Music Labels	157	Media	Technology/Media/Telecommunications
+Transportation Equipment	158	Transportation Equipment	Manufacturing
+Advertising Services	159	Commercial Services and Supplies	Business Services
+Social Care Services	160	Healthcare Services	Healthcare
+Business Support Services	161	Commercial Services and Supplies	Business Services
+Transportation Services	162	Transportation Services and Supplies	Transportation
+Irrigation Systems	163	Irrigation Systems	Natural Resources
+Sewerage Systems	164	Water Utilities	Natural Resources
+Educational, Religious, and Charitable Trusts	165	Educational, Religious, and Charitable Trusts	Public Sector and Education
+Material Manufacturing	166	Material Manufacturing	Manufacturing
+Public Finance, Taxation, and Monetary Policy	167	Financial Support Services	Financial Institutions
+Management Consulting Services	168	Professional Services	Business Services
+Legal Services	169	Professional Services	Business Services
+Physical and Biological Research	170	Professional Services	Business Services
+Business Consulting Services	171	Professional Services	Business Services
+Engineering Services	172	Construction and Engineering	Construction
+Investment Advice	173	Capital Markets	Financial Institutions
+Pension, Health and Welfare Funds	174	Capital Markets	Financial Institutions
+Private Equity	175	Capital Markets	Financial Institutions
+Digital Banking	176	Fintech	Financial Institutions
+Regtech	177	Fintech	Financial Institutions
+Insurtech	178	Fintech	Financial Institutions
+Lending, Capital Raising and Crowdfunding	179	Fintech	Financial Institutions
+Payments	180	Fintech	Financial Institutions
+Quote Aggregators	181	Fintech	Financial Institutions
+Capital Markets, Trading and Wealth Management	182	Fintech	Financial Institutions
+Distributed Ledger Technologies and Cryptocurrencies	183	Fintech	Financial Institutions
+Reinsurance	184	Insurance	Financial Institutions
+Renewable Energy	185	Electric Utilities	Natural Resources
+Accounting Services	186	Professional Services	Business Services
